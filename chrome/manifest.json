@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "VU Moodle Redirector",
+  "version": "1.3",
+  "description": "Changes the language of the VU Moodle to English automatically.",
+  "permissions": [
+    "webNavigation" 
+  ],
+  "host_permissions": [
+    "https://emokymai.vu.lt/*" 
+  ],
+  "background": {
+    "service_worker": "background.js" 
+  },
+  "icons": {
+    "48": "icon.png" 
+  }
+}
