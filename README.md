@@ -4,8 +4,8 @@ The VU Moodle Redirector is a browser extension designed to streamline navigatio
 
 Who It's For:
 
-    Students of Vilnius University who usually visit the Moodle platform.
-    Anyone seeking automation for repetitive navigation tasks.
+Students of Vilnius University who usually visit the Moodle platform.
+Anyone seeking automation for repetitive navigation tasks.
 
 you can get it from chrome here: 
 
