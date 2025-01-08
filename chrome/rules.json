@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://emokymai.vu.lt/my/index.php?lang=en"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://emokymai.vu.lt/my/",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
