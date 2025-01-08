@@ -7,7 +7,7 @@ Who It's For:
 Students of Vilnius University who usually visit the Moodle platform.
 Anyone seeking automation for repetitive navigation tasks.
 
-you can get it from chrome here: 
+you can get it for chrome here: 
 
 https://chromewebstore.google.com/detail/vu-moodle-redirector/pmioanjlcddggnkfppiacpabengcoece
 
