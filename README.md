@@ -12,7 +12,10 @@ you can get it from chrome here:
 https://chromewebstore.google.com/detail/vu-moodle-redirector/pmioanjlcddggnkfppiacpabengcoece
 
 
-for firefox I couldn't upload it, but you can download the .xpi file, and it will work locally.
+for firefox I couldn't upload it, but you can download the .xpi file, and it will work locally from here:
+
+
+https://github.com/Izzzzz27/VU-moodle-redirector/raw/refs/heads/main/firefox/VU.xpi
 
 
 
