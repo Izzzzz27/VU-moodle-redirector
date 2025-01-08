@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "VU Moodle Redirector",
+  "version": "1.1",
+  "description": "Changes the language of the VU Moodle to English automatically.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "tabs",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "icons": {
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "applications": {
+    "gecko": {
+      "id": "Egypt@lithuania.com"
+    }
+  }
+}
