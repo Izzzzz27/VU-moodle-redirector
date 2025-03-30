@@ -20,3 +20,5 @@ https://github.com/Izzzzz27/VU-moodle-redirector/raw/refs/heads/main/firefox/VU.
 
 
 Hope you enjoy it!
+
+NOT UPDATED ANYMORE DUE TO LACK OF USAGE.
